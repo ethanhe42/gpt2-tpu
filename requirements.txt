@@ -1,0 +1,6 @@
+git+https://github.com/huggingface/transformers.git
+datasets
+scikit-learn
+accelerate
+evaluate
+wandb
