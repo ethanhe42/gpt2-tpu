@@ -1,7 +1,12 @@
 # gpt2-tpu
-pretraining gpt2 on TPUs
 
-Verified on TPUv3-8
+pretraining gpt2 on TPUs. Verified on TPUv3-8
+
+![image](https://github.com/yihui-he/gpt2-tpu/assets/10027339/2859929b-1340-4190-92dc-3c183f7a8b81)
+
+[full log](https://wandb.ai/yihuihe/tpu-research/runs/8a33wa61?workspace=user-yihuihe)
+
+
 
 ```bash
 pip3 install -r requirements.txt
